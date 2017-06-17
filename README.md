@@ -1,0 +1,1 @@
+##This doument contains information about different aspects of Trifacta configuration.
